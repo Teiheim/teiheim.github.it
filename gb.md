@@ -1,7 +1,7 @@
 ## Good Design 
-![](/img/unnamed3.png)
-![](/img/unnamed4.png)
-![](/img/unnamed5.png)
+![](/img/unnamed3.jpg)
+![](/img/unnamed4.jpg)
+![](/img/unnamed5.jpg)
 Recently, I only have thought about this part of Paresky after moving summer storage boxes from Baxter’s to my dorm in prospect. Many people ignored this ramp where the steps meet the concrete in favor of lifting their heavy boxes down the few steps of Paresky. Paresky is a relatively recent addition to Williams, and being slightly newer one would think that it would have a more open-minded design for those with disabilities. Paresky seems to hide the closest thing it has to a ramp behind one of the pillars holding the building up. The ramp also is around doors that tend not to be open from the outside. If you cannot traverse the steps or have a difficult time doing so then you must go around the side of the building to enter the building which can sometimes hold an aspect of shame. Ramps already tend to take longer to traverse than steps due to the nature of building a ramp. Even people who do not usually need ramps will find this ramp tucked behind the pillar hard to remember. They will often then continue to lug their heavy luggage or other storage unit down the steps.
 
 ## Bad Design 
