@@ -1,3 +1,8 @@
+---
+layout: post
+title:Project Proposal
+---
+
 ## Motivation
 
 You are walking or driving down the street and then you see something curious, a Starbucks appears. You had heard something about them building one not too long ago, but you never stopped to really check it out. Now it’s brand new. You, being curious of course decide to check it out, and walk in to see the white Barista greet you. “Hello honey,” she says. You are really not sure why, but it seemed a little off, the emphasis on the H of honey almost seemed– hostile? Whatever. You leave with your sweet coffee beverage. Over the course of the next few years you see a Top Golf, 2 more Starbucks pop up. Your beloved Patty Place closes and is replaced by Zak the Baker. Suddenly the people you see in the streets seem less like you. White people in their distressed jeans, buns, and other unfamiliar wear begin, invading the streets.
