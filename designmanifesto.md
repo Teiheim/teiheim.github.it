@@ -1,3 +1,8 @@
+---
+layout: page
+title: Design Manifesto
+---
+
 Design Manifesto
 ======
 As with any computer science class, there is a paradigm shift that occurs in your thinking as the semester progresses. For Human Computer Interaction in particular, you begin to start noticing the effectiveness of the design of everything you use, in a more detailed way. Small things like doors handles begin to tell stories. Why was it made this way? Who were the designers appealing to and why? Is it effective? It is almost as if you have learned to analyze literature or art. Everything tells a story, and what I have found is that this story often sounds very familiar. With this class in conjunction with others I have taken in my academic career at Williams it becomes evident why so many systems fail so spectacularly. The research and testing of their design obviously centers around whiteness, straightness, and such qualities considered “normal.” After taking Human Computer Interaction, it is quite evident that the power of behind design is in diversity. 
