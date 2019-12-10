@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Design Manifesto
 ---
 
 Design Manifesto
